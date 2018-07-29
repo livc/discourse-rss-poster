@@ -1,4 +1,4 @@
-class AddRegexpToRssPosterFeeds < ActiveRecord::Migration
+class AddRegexpToRssPosterFeeds < ActiveRecord::Migration[4.2]
   def change
     add_column :rss_poster_feeds, :regexp_title_pattern, :string
     add_column :rss_poster_feeds, :regexp_title_options, :string

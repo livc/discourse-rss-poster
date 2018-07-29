@@ -1,4 +1,4 @@
-class CreateFeeds < ActiveRecord::Migration
+class CreateFeeds < ActiveRecord::Migration[4.2]
   def change
     create_table :rss_poster_feeds do |t|
       t.string :url, null: false
