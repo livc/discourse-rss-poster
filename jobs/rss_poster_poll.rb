@@ -27,9 +27,9 @@ module Jobs
         rss.items.each do |item|
           begin
             url = TopicEmbed.normalize_url(item.link)
-            content = item.content_encoded.try(:force_encoding, 'UTF-8').try(:scrub).try(:gsub, regexp_body, feed.regexp_body_replacement.to_s) ||
-                      item.content.try(:force_encoding, 'UTF-8').try(:scrub).try(:gsub, regexp_body, feed.regexp_body_replacement.to_s) ||
-                      item.description.try(:force_encoding, 'UTF-8').try(:scrub).try(:gsub, regexp_body, feed.regexp_body_replacement.to_s)
+            content = item.summary.try(:force_encoding, 'UTF-8').try(:scrub).try(:gsub, regexp_body, feed.regexp_body_replacement.to_s) # ||
+                      # item.content.try(:force_encoding, 'UTF-8').try(:scrub).try(:gsub, regexp_body, feed.regexp_body_replacement.to_s) ||
+                      # item.description.try(:force_encoding, 'UTF-8').try(:scrub).try(:gsub, regexp_body, feed.regexp_body_replacement.to_s)
             content << "\n<hr> <small>#{feed.link_text} <a href='#{url}'>#{url}</a></small>\n" if feed.add_link
             title = HTMLEntities.new(:expanded).decode(item.title.force_encoding('UTF-8').scrub).gsub(regexp_title, feed.regexp_title_replacement.to_s)
             item_sha1 = Digest::SHA1.hexdigest(title + content)
