@@ -4,6 +4,8 @@
 # authors: Leo McArdle
 # url: https://github.com/LeoMcA/discourse-rss-poster
 
+gem 'simple-rss', '1.3.3'
+
 require 'sidekiq/api'
 
 load File.expand_path('../lib/rss_poster.rb', __FILE__)

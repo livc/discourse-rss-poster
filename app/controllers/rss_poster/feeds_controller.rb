@@ -14,7 +14,7 @@ module RssPoster
       feed = Feed.new(feed_params)
       feed.save!
       Jobs.enqueue(:rss_poster_poll, feed_id: feed.id)
-      render nothing: true, status: 204
+      render json: { success: true }, status: 204
     end
 
     def show
@@ -26,14 +26,14 @@ module RssPoster
       feed = Feed.find(params[:id])
       feed.update_attributes!(feed_params)
       Jobs.enqueue(:rss_poster_poll, feed_id: feed.id)
-      render nothing: true, status: 204
+      render json: { success: true }, status: 204
     end
 
     def destroy
       feed = Feed.find(params[:id])
       Jobs.cancel_scheduled_job(:rss_poster_poll, feed_id: feed.id)
       feed.delete
-      render nothing: true, status: 204
+      render json: { success: true }, status: 204
     end
 
     private
