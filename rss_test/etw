@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" encoding="UTF-8" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:admin="http://webns.net/mvcb/" xmlns:atom="http://www.w3.org/2005/Atom/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+    <channel>
+        <generator>Fireside (https://fireside.fm)</generator>
+        <title>声东击西</title>
+        <link>https://shengdongjixi.fireside.fm/</link>
+        <pubDate>Wed, 05 Dec 2018 11:00:00 -0500</pubDate>
+        <description>Bigger Than Us，两个驻美记者为您带来的播客
+            世界宽广，但人们被日常及社交媒体所限制。那就让作为记者的我们，帮你推开一些意想不到的窗户，看见不一样的世界，触及不一样的信息，激发不一样的思考。
+            这里讨论城市与未来，电影与现场，也谈论技术创新与人类生活的变革。
+            这里有一手的现场观察和体验，还有不定期出现的神秘嘉宾。
+            🦉🦉
+            我们在为「声东击西」第三年运作进行募资，请大家移步 https://www.etw.fm/donation 支持我们。
+            我们也有“声东击西限量版”T恤啦。
+            帮助我们做 T恤的是我们的朋友 April 以及她的重列 Relist 品牌。
+            T恤上面的图案设计也是我们 好朋友+ Logo 设计者，艺术家 Nova Pan。
+            有时候真是觉得蛮幸运的，声东击西不断有朋友帮助和支持。
+            大家可以戳这里购买：https://bit.ly/2RjYUiq
+            🦉🦉🦉
+            也欢迎加入我们的 Telegram 听众群：bit.ly/etwtelegram
+        </description>
+        <language>zh-cn</language>
+        <itunes:type>episodic</itunes:type>
+        <itunes:subtitle>两个驻美记者主持的播客，带你看不一样的世界</itunes:subtitle>
+        <itunes:author>ETW Studio</itunes:author>
+        <itunes:summary>Bigger Than Us，两个驻美记者为您带来的播客
+            世界宽广，但人们被日常及社交媒体所限制。那就让作为记者的我们，帮你推开一些意想不到的窗户，看见不一样的世界，触及不一样的信息，激发不一样的思考。
+            这里讨论城市与未来，电影与现场，也谈论技术创新与人类生活的变革。
+            这里有一手的现场观察和体验，还有不定期出现的神秘嘉宾。
+            🦉🦉
+            我们在为「声东击西」第三年运作进行募资，请大家移步 https://www.etw.fm/donation 支持我们。
+            我们也有“声东击西限量版”T恤啦。
+            帮助我们做 T恤的是我们的朋友 April 以及她的重列 Relist 品牌。
+            T恤上面的图案设计也是我们 好朋友+ Logo 设计者，艺术家 Nova Pan。
+            有时候真是觉得蛮幸运的，声东击西不断有朋友帮助和支持。
+            大家可以戳这里购买：https://bit.ly/2RjYUiq
+            🦉🦉🦉
+            也欢迎加入我们的 Telegram 听众群：bit.ly/etwtelegram
+        </itunes:summary>
+        <itunes:image href="https://images.fireside.fm/podcasts/images/8/8dd8a56f-9636-415a-8c00-f9ca6778e511/cover.jpg?v=1"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:owner>
+            <itunes:name>ETW Studio</itunes:name>
+            <itunes:email>etwstudio@gmail.com</itunes:email>
+        </itunes:owner>
+        <itunes:category text="Society &amp; Culture"/>
+        <itunes:category text="Technology"/>
+        <itunes:category text="Business"/>
+        <item>
+            <title>#75 我们为什么说金庸先生是一座桥</title>
+            <link>https://shengdongjixi.fireside.fm/jinyong</link>
+            <guid isPermaLink="false">56c48b65-5ccc-4681-a3ee-90eb5c5a2815</guid>
+            <pubDate>Wed, 05 Dec 2018 11:00:00 -0500</pubDate>
+            <author>ETW Studio</author>
+            <enclosure url="https://aphid.fireside.fm/d/1437767933/8dd8a56f-9636-415a-8c00-f9ca6778e511/56c48b65-5ccc-4681-a3ee-90eb5c5a2815.mp3" length="65986897" type="audio/mpeg"/>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:author>ETW Studio</itunes:author>
+            <itunes:subtitle></itunes:subtitle>
+            <itunes:duration>1:08:43</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:image href="https://images.fireside.fm/podcasts/images/8/8dd8a56f-9636-415a-8c00-f9ca6778e511/cover.jpg?v=1"/>
+            <description>嘉宾丨 Gigi；主播丨徐涛
+                这次请到的嘉宾是 Gigi，张菁，「射雕英雄传」第二卷英译本的译者。她在香港出生，后在英国读美术史，还从事很多中国古典文学的翻译，因此很多视角还蛮独特的。
+                我想，正是因为视角问题，我们能观察到，其实那种统一的中华文化和身份认同，并非一以贯之，其中曾出现过很多断层和割裂。从某种程度上而言，金庸先生的小说起到了桥梁的作用，多少弥合了这些断层。当他塑造了一个令人向往的江湖时，其实也建立了一个想象的共同体。
+                诶诶。。。为什么上面这段我说得这么生涩。Anyway，这期节目本身一点都不生涩。大家听了就知道啦！
+                Enjoy！
+                相关信息
+                * 金庸：传奇香港和辽阔江湖 (http://www.lifeweek.com.cn/2017/0712/49321.shtml)
+                * 想象的共同体 (https://book.douban.com/subject/1315190/)
+                Special Guest: Gigi（张菁）.
+            </description>
+            <itunes:keywords>jinyong, 金庸, </itunes:keywords>
+            <content:encoded>
+                <![CDATA[<p>嘉宾丨 Gigi；主播丨徐涛</p>
+
+                    <p>这次请到的嘉宾是 Gigi，张菁，「射雕英雄传」第二卷英译本的译者。她在香港出生，后在英国读美术史，还从事很多中国古典文学的翻译，因此很多视角还蛮独特的。</p>
+
+                    <p>我想，正是因为视角问题，我们能观察到，其实那种统一的中华文化和身份认同，并非一以贯之，其中曾出现过很多断层和割裂。从某种程度上而言，金庸先生的小说起到了桥梁的作用，多少弥合了这些断层。当他塑造了一个令人向往的江湖时，其实也建立了一个想象的共同体。</p>
+
+                    <p>诶诶。。。为什么上面这段我说得这么生涩。Anyway，这期节目本身一点都不生涩。大家听了就知道啦！</p>
+
+                    <p><strong>Enjoy！</strong></p>
+
+                    <p><strong>相关信息</strong></p>
+
+                    <ul>
+                    <li><a href="http://www.lifeweek.com.cn/2017/0712/49321.shtml" rel="nofollow">金庸：传奇香港和辽阔江湖</a></li>
+                    <li><a href="https://book.douban.com/subject/1315190/" rel="nofollow">想象的共同体</a></li>
+                    </ul><p>Special Guest: Gigi（张菁）.</p><p><a rel="payment" href="https://www.patreon.com/etw">Support 声东击西</a></p>]]>
+            </content:encoded>
+            <itunes:summary>
+                <![CDATA[<p>嘉宾丨 Gigi；主播丨徐涛</p>
+
+                    <p>这次请到的嘉宾是 Gigi，张菁，「射雕英雄传」第二卷英译本的译者。她在香港出生，后在英国读美术史，还从事很多中国古典文学的翻译，因此很多视角还蛮独特的。</p>
+
+                    <p>我想，正是因为视角问题，我们能观察到，其实那种统一的中华文化和身份认同，并非一以贯之，其中曾出现过很多断层和割裂。从某种程度上而言，金庸先生的小说起到了桥梁的作用，多少弥合了这些断层。当他塑造了一个令人向往的江湖时，其实也建立了一个想象的共同体。</p>
+
+                    <p>诶诶。。。为什么上面这段我说得这么生涩。Anyway，这期节目本身一点都不生涩。大家听了就知道啦！</p>
+
+                    <p><strong>Enjoy！</strong></p>
+
+                    <p><strong>相关信息</strong></p>
+
+                    <ul>
+                    <li><a href="http://www.lifeweek.com.cn/2017/0712/49321.shtml" rel="nofollow">金庸：传奇香港和辽阔江湖</a></li>
+                    <li><a href="https://book.douban.com/subject/1315190/" rel="nofollow">想象的共同体</a></li>
+                    </ul><p>Special Guest: Gigi（张菁）.</p><p><a rel="payment" href="https://www.patreon.com/etw">Support 声东击西</a></p>]]>
+            </itunes:summary>
+        </item>
+        <item>
+            <title>#74 电影丨我们不理解的「疯狂亚洲富人」</title>
+            <link>https://shengdongjixi.fireside.fm/crazy-rich-asians</link>
+            <guid isPermaLink="false">afac54f7-32a3-4916-9300-4fd08ab81d91</guid>
+            <pubDate>Sun, 18 Nov 2018 11:00:00 -0500</pubDate>
+            <author>ETW Studio</author>
+            <enclosure url="https://aphid.fireside.fm/d/1437767933/8dd8a56f-9636-415a-8c00-f9ca6778e511/afac54f7-32a3-4916-9300-4fd08ab81d91.mp3" length="56655122" type="audio/mpeg"/>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:author>ETW Studio</itunes:author>
+            <itunes:subtitle></itunes:subtitle>
+            <itunes:duration>59:00</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:image href="https://images.fireside.fm/podcasts/images/8/8dd8a56f-9636-415a-8c00-f9ca6778e511/cover.jpg?v=1"/>
+            <description>「疯狂亚洲富人」（Crazy Rich Asians）即将在大陆上映，我很好奇它的票房会如何。
+                因为这是这样一部电影：我最初只把它看作爱情轻喜剧，看时笑得开心也会感到感动，但至于为何能在美国引起如轰动，当时并不很理解。
+                但一旦听任何一位亚裔讲述了他们被触动的理由，我就立刻理解了此种缘由，并觉得自己也有理由去支持这样一部电影。
+                这次请到的两位嘉宾，一位是台湾裔美国人 Jefferson Teng，一位是在西方留学并留在硅谷工作的中国人罗轶闻。我想他们的视角能帮助我们理解这部电影的背景，以及所引起的亚裔的情绪。
+                当然我们也会讨论这部电影所引起的一些争议。
+                在这期节目的片头和片尾，我也用了Crazy Rich Asians电影中的音乐。
+                片头的是Kina Grannis 翻唱Elvis Presley 的 Can't Help Falling In Love；
+                片尾的是 Katherine Ho 翻唱的Coldplay 的 Yellow。据说导演朱浩伟为获得这首歌的版权使用，给 Clodplay 写了一封言辞恳切的信说：“‘yellow’这个字在我的人生中总带着负面含义，直到我听到了你们的歌。在我人生中，第一次有人将这个颜色表述的如此美丽和神奇。。。。。我记得大学里第一次看这首歌的MTV， 最后太阳升起的那一幕，让我无论作为电影制作者还是音乐爱好者都觉得非常震撼。它立刻成为我和我朋友心中的颂歌，并给了我们一种此前从来没有过的骄傲。” 这封邮件发出后24小时，Coldplay 答应了朱浩伟的请求。
+                也请大家告诉我们，你们对这部电影如何看。
+                Enjoy！
+                相关信息
+                * 节目中提到的tweets ‘You don’t want to be Chinese any more’ (https://www.bbc.com/news/blogs-trending-45246159)
+                * 对一些观众来说，《疯狂的亚洲富人》还不够亚洲 (https://cn.nytimes.com/culture/20180817/crazy-rich-asians-cast-singapore/)
+                * 亚裔美国人的未来 (https://cn.nytimes.com/opinion/20181017/harvard-and-the-myth-of-the-interchangeable-asian/) Special Guests: Jefferson Teng and 罗轶闻.
+            </description>
+            <itunes:keywords>crazy-rich-asians, movie</itunes:keywords>
+            <content:encoded>
+                <![CDATA[<p>「疯狂亚洲富人」（Crazy Rich Asians）即将在大陆上映，我很好奇它的票房会如何。</p>
+
+                    <p>因为这是这样一部电影：我最初只把它看作爱情轻喜剧，看时笑得开心也会感到感动，但至于为何能在美国引起如轰动，当时并不很理解。</p>
+
+                    <p>但一旦听任何一位亚裔讲述了他们被触动的理由，我就立刻理解了此种缘由，并觉得自己也有理由去支持这样一部电影。</p>
+
+                    <p>这次请到的两位嘉宾，一位是台湾裔美国人 Jefferson Teng，一位是在西方留学并留在硅谷工作的中国人罗轶闻。我想他们的视角能帮助我们理解这部电影的背景，以及所引起的亚裔的情绪。</p>
+
+                    <p>当然我们也会讨论这部电影所引起的一些争议。</p>
+
+                    <p>在这期节目的片头和片尾，我也用了Crazy Rich Asians电影中的音乐。</p>
+
+                    <p>片头的是Kina Grannis 翻唱Elvis Presley 的 Can&#39;t Help Falling In Love； </p>
+
+                    <p>片尾的是 Katherine Ho 翻唱的Coldplay 的 Yellow。据说导演朱浩伟为获得这首歌的版权使用，给 Clodplay 写了一封言辞恳切的信说：“‘yellow’这个字在我的人生中总带着负面含义，直到我听到了你们的歌。在我人生中，第一次有人将这个颜色表述的如此美丽和神奇。。。。。我记得大学里第一次看这首歌的MTV， 最后太阳升起的那一幕，让我无论作为电影制作者还是音乐爱好者都觉得非常震撼。它立刻成为我和我朋友心中的颂歌，并给了我们一种此前从来没有过的骄傲。” 这封邮件发出后24小时，Coldplay 答应了朱浩伟的请求。</p>
+
+                    <p>也请大家告诉我们，你们对这部电影如何看。</p>
+
+                    <p><strong>Enjoy！</strong></p>
+
+                    <p><strong>相关信息</strong></p>
+
+                    <ul>
+                    <li>节目中提到的tweets <a href="https://www.bbc.com/news/blogs-trending-45246159" rel="nofollow">‘You don’t want to be Chinese any more’</a></li>
+                    <li><a href="https://cn.nytimes.com/culture/20180817/crazy-rich-asians-cast-singapore/" rel="nofollow">对一些观众来说，《疯狂的亚洲富人》还不够亚洲</a></li>
+                    <li><a href="https://cn.nytimes.com/opinion/20181017/harvard-and-the-myth-of-the-interchangeable-asian/" rel="nofollow">亚裔美国人的未来</a></li>
+                    </ul><p>Special Guests: Jefferson Teng and 罗轶闻.</p><p><a rel="payment" href="https://www.patreon.com/etw">Support 声东击西</a></p>]]>
+            </content:encoded>
+            <itunes:summary>
+                <![CDATA[<p>「疯狂亚洲富人」（Crazy Rich Asians）即将在大陆上映，我很好奇它的票房会如何。</p>
+
+                    <p>因为这是这样一部电影：我最初只把它看作爱情轻喜剧，看时笑得开心也会感到感动，但至于为何能在美国引起如轰动，当时并不很理解。</p>
+
+                    <p>但一旦听任何一位亚裔讲述了他们被触动的理由，我就立刻理解了此种缘由，并觉得自己也有理由去支持这样一部电影。</p>
+
+                    <p>这次请到的两位嘉宾，一位是台湾裔美国人 Jefferson Teng，一位是在西方留学并留在硅谷工作的中国人罗轶闻。我想他们的视角能帮助我们理解这部电影的背景，以及所引起的亚裔的情绪。</p>
+
+                    <p>当然我们也会讨论这部电影所引起的一些争议。</p>
+
+                    <p>在这期节目的片头和片尾，我也用了Crazy Rich Asians电影中的音乐。</p>
+
+                    <p>片头的是Kina Grannis 翻唱Elvis Presley 的 Can&#39;t Help Falling In Love； </p>
+
+                    <p>片尾的是 Katherine Ho 翻唱的Coldplay 的 Yellow。据说导演朱浩伟为获得这首歌的版权使用，给 Clodplay 写了一封言辞恳切的信说：“‘yellow’这个字在我的人生中总带着负面含义，直到我听到了你们的歌。在我人生中，第一次有人将这个颜色表述的如此美丽和神奇。。。。。我记得大学里第一次看这首歌的MTV， 最后太阳升起的那一幕，让我无论作为电影制作者还是音乐爱好者都觉得非常震撼。它立刻成为我和我朋友心中的颂歌，并给了我们一种此前从来没有过的骄傲。” 这封邮件发出后24小时，Coldplay 答应了朱浩伟的请求。</p>
+
+                    <p>也请大家告诉我们，你们对这部电影如何看。</p>
+
+                    <p><strong>Enjoy！</strong></p>
+
+                    <p><strong>相关信息</strong></p>
+
+                    <ul>
+                    <li>节目中提到的tweets <a href="https://www.bbc.com/news/blogs-trending-45246159" rel="nofollow">‘You don’t want to be Chinese any more’</a></li>
+                    <li><a href="https://cn.nytimes.com/culture/20180817/crazy-rich-asians-cast-singapore/" rel="nofollow">对一些观众来说，《疯狂的亚洲富人》还不够亚洲</a></li>
+                    <li><a href="https://cn.nytimes.com/opinion/20181017/harvard-and-the-myth-of-the-interchangeable-asian/" rel="nofollow">亚裔美国人的未来</a></li>
+                    </ul><p>Special Guests: Jefferson Teng and 罗轶闻.</p><p><a rel="payment" href="https://www.patreon.com/etw">Support 声东击西</a></p>]]>
+            </itunes:summary>
+        </item>
+    </channel>
+</rss>
+

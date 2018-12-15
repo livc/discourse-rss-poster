@@ -1,8 +1,8 @@
 # name: rss-poster
 # about: Discourse plugin which creates posts from feeds
-# version: 0.4
-# authors: Leo McArdle
-# url: https://github.com/LeoMcA/discourse-rss-poster
+# version: 0.4.1
+# authors: livc
+# url: https://github.com/livc/discourse-rss-poster
 
 gem 'simple-rss', '1.3.3'
 
