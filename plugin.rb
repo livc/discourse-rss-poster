@@ -1,6 +1,6 @@
 # name: rss-poster
 # about: Discourse plugin which creates posts from feeds
-# version: 0.4.1
+# version: 0.4.2
 # authors: livc
 # url: https://github.com/livc/discourse-rss-poster
 

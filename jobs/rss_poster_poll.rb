@@ -26,7 +26,11 @@ module Jobs
 
         rss.items.each do |item|
           begin
-            url = TopicEmbed.normalize_url(item.link)
+            begin
+              url = TopicEmbed.normalize_url(item.link)
+            rescue Exception => ex
+              url = TopicEmbed.normalize_url(item.guid)
+            end
             content = item.content_encoded.try(:force_encoding, 'UTF-8').try(:scrub).try(:gsub, regexp_body, feed.regexp_body_replacement.to_s)  ||
               item.content.try(:force_encoding, 'UTF-8').try(:scrub).try(:gsub, regexp_body, feed.regexp_body_replacement.to_s) ||
               item.description.try(:force_encoding, 'UTF-8').try(:scrub).try(:gsub, regexp_body, feed.regexp_body_replacement.to_s)
