@@ -47,7 +47,8 @@ module Jobs
               custom_field_deleted = true
             end
             if custom_field.nil? || custom_field_deleted
-              feed.use_timestamps ? created_at = item.pubDate : created_at = Time.now
+              time = item.published || item.pubDate
+              feed.use_timestamps ? created_at = time : created_at = Time.now
               creator = PostCreator.new(feed.user,
                                         title: title,
                                         raw: TopicEmbed.absolutize_urls(url, content),
