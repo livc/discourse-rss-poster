@@ -68,7 +68,8 @@ module Jobs
                             raw: TopicEmbed.absolutize_urls(url, content),
                             skip_validations: true,
                             bypass_rate_limiter: true,
-                            skip_revision: true)
+                            skip_revision: true,
+                            bypass_bump: true)
                 post.custom_fields['rss_poster_sha1'] = item_sha1
                 post.save!
               end
